@@ -67,7 +67,7 @@
     "moment": "^2.24.0",
     "omit.js": "^1.0.2",
     "path-to-regexp": "2.4.0",
-    "qs": "^6.7.0",
+    "qs": "^6.7.3",
     "react": "^16.8.6",
     "react-copy-to-clipboard": "^5.0.1",
     "react-dnd": "^9.3.4",
